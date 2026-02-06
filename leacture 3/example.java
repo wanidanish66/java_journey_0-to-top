@@ -11,6 +11,5 @@ public class example {
         } else {
             System.out.println("You are a minor.");
         }
-        scanner.close();
     }
 }
