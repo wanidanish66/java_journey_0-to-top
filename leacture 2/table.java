@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class question03 {
+public class table {
     public static void main(String[] args) {
         // Input number
         try (Scanner sc = new Scanner(System.in)) {

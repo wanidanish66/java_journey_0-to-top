@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class question02 {
+class RadiusOfCircle {
     public static void main(String[] args) {
         try(Scanner scanner = new Scanner(System.in)) {
 
